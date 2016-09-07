@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ClaimDi.WCF.Public.Service1" CodeBehind="GetApi.svc.cs" %>
